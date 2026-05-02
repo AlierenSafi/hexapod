@@ -350,16 +350,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FreeRTOS](https://www.freertos.org/) - Real-time OS
 - [Espressif](https://www.espressif.com/) - ESP32 platform
 
-## 📞 Contact
-
-For questions, issues, or contributions:
-- Open an [Issue](../../issues)
-- Start a [Discussion](../../discussions)
-
----
-
-**Version**: 3.1.0  
-**Last Updated**: April 2026  
-**Maintainer**: Ali Eren Safi 
-
-⭐ Star this repo if you find it useful!
